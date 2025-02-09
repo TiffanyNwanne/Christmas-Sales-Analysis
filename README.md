@@ -1,5 +1,7 @@
 # Gift Store Christmas Sales Analysis Report
 
+[![Preview Image](https://github.com/TiffanyNwanne/Christmas-Sales-Analysis/blob/main/DASHBOARD%201.png))](https://github.com/TiffanyNwanne/Christmas-Sales-Analysis/blob/main/DASHBOARD%201.png)
+
 ### **Overview**
 
 The Christmas sales analysis for the gift store provides key insights into sales performance, revenue trends, and item-wise sales distribution. The data highlights a significant decline in revenue compared to the previous year, despite selling a considerable number of items.
